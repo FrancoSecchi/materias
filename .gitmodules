@@ -1,5 +1,5 @@
 [submodule "Arquitectura-de-software"]
 	path = Arquitectura-de-software
-	url = https://github.com/FrancoSecchi/Arquitectura-de-software
+	url = git@github.com:FrancoSecchi/Arquitectura-de-software.git
 
 
