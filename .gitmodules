@@ -1,5 +1,8 @@
 [submodule "Arquitectura-de-software"]
 	path = Arquitectura-de-software
 	url = git@github.com:FrancoSecchi/Arquitectura-de-software.git
+[submodule "Modelacion-numerica-cavaliere"]
+	path = Modelacion-numerica-cavaliere
+	url = git@github.com:FrancoSecchi/Modelacion-numerica-cavaliere.git
 
 
